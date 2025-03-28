@@ -1,3 +1,4 @@
+visit for demo : https://pullayithrisha.github.io/Simple-Weather/
 Simple Weather App
 🌦️ A minimal and responsive weather app that fetches weather data using an API and displays current conditions along with a forecast.
 
